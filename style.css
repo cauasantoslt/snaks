@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #2f2d20;
+  background-color: #1a0025;
   font-family: "Roboto" , sans-serif;
 }
 
@@ -76,7 +76,7 @@ li .details {
 }
 
 .details p {
-  color:  rgba(0, 0, 0, 0.6) ;
+  color:  rgb(207, 198, 198) ;
   font-size: 14px;
   line-height: 21px;
 }
